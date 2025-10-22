@@ -1,9 +1,7 @@
 # VsemML
 Welcome to **VsemML**! This repository contains machine learning practice projects focusing on data preprocessing, model training, and evaluation.
 
-## Project Status
 
-🚧 We are currently in the **data preprocessing** stage.
 
 ## Description
 
